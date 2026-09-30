@@ -1,84 +1,74 @@
-<!-- ═══════════════════════════════════════════════════════════════════════
-     ALI MUKHTAR / ANONYMUSAGENT
-     ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-# ⚡ Ali Mukhtar
+<br>
 
-### `Full-Stack Developer` · `Web Developer` · `Problem Solver`
+# ALI MUKHTAR
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;JavaScript+%7C+TypeScript+%7C+Node.js;Currently+building+AR+Manager+Software;Learning+Python+%F0%9F%90%8D;Turning+ideas+into+digital+experiences+%E2%9A%A1" alt="Typing SVG" />
+### `ANONYMUSAGENT`
 
-<br/>
+**FULL-STACK DEVELOPER · WEB LOOM**
 
-<a href="https://github.com/AnonymusAgent">
-  <img src="https://img.shields.io/badge/GitHub-AnonymusAgent-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br>
+
 <a href="https://webloom-nu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Web_Loom-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/WEBLOOM-PORTFOLIO-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
 </a>
+&nbsp;
+<a href="https://github.com/AnonymusAgent">
+<img src="https://img.shields.io/badge/GITHUB-PROFILE-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
+</a>
+&nbsp;
 <a href="mailto:webloomofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/CONTACT-ME-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=AnonymusAgent&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="Profile views" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=2&section=header" width="85%">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+digital+experiences.;Designing+interfaces+that+feel+simple.;Engineering+modern+web+applications.;Always+learning.+Always+building." />
+
+<br><br>
 
 </div>
 
 ---
 
-## 👨‍💻 `whoami`
+## / ABOUT
 
-```javascript
-const ali = {
-    name: "Ali Mukhtar",
-    username: "AnonymusAgent",
-    role: "Full-Stack Developer",
-    location: "Remote 🌐",
+I'm **Ali Mukhtar**, a Full-Stack Web Developer focused on building modern, responsive and user-centered web applications.
 
-    currentlyBuilding: "AR Manager Software",
-    currentlyLearning: "Python 🐍",
+I enjoy taking an idea from **interface → architecture → implementation → deployment**, with particular interest in the JavaScript ecosystem and modern web experiences.
 
-    focus: [
-        "Responsive Web Applications",
-        "Modern UI/UX",
-        "Scalable Full-Stack Systems",
-        "User-Centric Digital Experiences"
-    ],
-
-    philosophy:
-        "Build useful things. Keep learning. Make every interface better."
-};
+```text
+REMOTE · FULL-STACK DEVELOPMENT · WEB EXPERIENCES
 ```
-
-> **I am a Full-Stack Web Developer with practical experience in building responsive, user-centric web applications using modern technologies in the JavaScript ecosystem.**
 
 ---
 
-## 🚀 What I'm Doing
+## / CURRENTLY
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔭 Currently Working On
+### BUILDING
 
 **AR Manager Software**
 
-Building and improving a practical management system with a focus on usability, performance and modern web technologies.
+Working on a practical management application with an emphasis on clean interfaces, usability and reliable functionality.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌱 Currently Learning
+### LEARNING
 
-**Python 🐍**
+**Python**
 
-Expanding beyond the JavaScript ecosystem and exploring Python for automation, backend development and future projects.
+Expanding my development toolkit beyond JavaScript and exploring Python for automation, backend development and future projects.
 
 </td>
 </tr>
@@ -86,139 +76,72 @@ Expanding beyond the JavaScript ecosystem and exploring Python for automation, b
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python" />
-</p>
-
-### ⚛️ Frameworks & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,nodejs" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
-</p>
-
-### 🧩 Core Skills
-
-<p align="center">
-
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-111827?style=for-the-badge\&logo=css3\&logoColor=00F7FF)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-111827?style=for-the-badge\&logo=figma\&logoColor=F24E1E)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge\&logo=tailwindcss\&logoColor=06B6D4)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge\&logo=nodedotjs\&logoColor=5FA04E)
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnonymusAgent&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusAgent&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnonymusAgent&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnonymusAgent&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AnonymusAgent&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
-# 🚧 Featured Work
+## / SELECTED WORK
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 Medx
+### 01 — MEDX
 
 **TypeScript**
 
-A modern project focused on building a practical web application experience.
+A web application project built around a modern development workflow and practical user experience.
+
+<br>
 
 <a href="https://github.com/AnonymusAgent/Medx">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+` VIEW REPOSITORY → `
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📡 Wifi Dashboard
+### 02 — WIFI DASHBOARD
 
 **JavaScript**
 
-A futuristic Wi-Fi monitoring and management dashboard concept with real-time network monitoring capabilities.
+A dashboard-oriented project exploring network management interfaces and information-heavy UI.
+
+<br>
 
 <a href="https://github.com/AnonymusAgent/Wifi-dashboard">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+` VIEW REPOSITORY → `
 </a>
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍽️ Restaurant Web
+### 03 — WEB APP
 
-**HTML**
+**TypeScript**
 
-A responsive and simple web experience designed with accessibility and clean presentation in mind.
+A modern web application focused on responsive interfaces and frontend development.
 
-<a href="https://github.com/AnonymusAgent/Restaurant-Web">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<br>
+
+<a href="https://github.com/AnonymusAgent/Web-App">
+` VIEW REPOSITORY → `
 </a>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Web App
+### 04 — RESTAURANT WEB
 
-**TypeScript**
+**HTML**
 
-A responsive web application project focused on modern frontend design and usability.
+A responsive restaurant website project focused on presenting information through a clean web experience.
 
-<a href="https://github.com/AnonymusAgent/Web-App">
-<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<br>
+
+<a href="https://github.com/AnonymusAgent/Restaurant-Web">
+` VIEW REPOSITORY → `
 </a>
 
 </td>
@@ -227,48 +150,112 @@ A responsive web application project focused on modern frontend design and usabi
 
 ---
 
-# 💡 Development Philosophy
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   IDEA  →  DESIGN  →  CODE  →  TEST  →  IMPROVE  →  SHIP  │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I enjoy transforming ideas into clean, responsive and practical digital experiences.
-
-My goal isn't just to make something that works.
-
-**I want to build something people enjoy using.**
-
----
-
-# 🌐 Connect With Me
+## / TECHNOLOGY
 
 <div align="center">
 
-<a href="https://github.com/AnonymusAgent">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,tailwind,nodejs,python,git,github,vscode,vercel&perline=6" />
 
-<a href="https://webloom-nu.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Web_Loom-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br><br>
 
-<a href="mailto:webloomofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-webloomofficial-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Java`
+
+`Tailwind CSS` · `Node.js` · `Python` · `Git` · `VS Code`
 
 </div>
 
-<br/>
+---
+
+## / GITHUB
 
 <div align="center">
 
-### ⚡ Let's build something awesome.
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnonymusAgent&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&include_all_commits=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:7B61FF,100:00F7FF&height=120&section=footer" width="100%" />
+  
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusAgent&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&langs_count=6" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=AnonymusAgent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
+
+</div>
+
+---
+
+## / CONTRIBUTIONS
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnonymusAgent&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+## / APPROACH
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 01
+
+**THINK**
+
+Understand the problem before writing the solution.
+
+</td>
+
+<td align="center" width="33%">
+
+### 02
+
+**BUILD**
+
+Turn ideas into clean, functional experiences.
+
+</td>
+
+<td align="center" width="33%">
+
+### 03
+
+**REFINE**
+
+Improve the details until the experience feels right.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<br>
+
+### LET'S BUILD SOMETHING MEANINGFUL.
+
+<br>
+
+<a href="https://webloom-nu.vercel.app">
+<img src="https://img.shields.io/badge/EXPLORE_WEBLOOM-FFFFFF?style=for-the-badge&labelColor=111111&color=111111" />
+</a>
+
+ 
+
+<a href="mailto:webloomofficial@gmail.com">
+<img src="https://img.shields.io/badge/START_A_CONVERSATION-FFFFFF?style=for-the-badge&labelColor=111111&color=111111" />
+</a>
+
+<br><br>
+
+<sub>Designed & built by Ali Mukhtar · AnonymusAgent</sub>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=100&section=footer" width="100%">
 
 </div>
