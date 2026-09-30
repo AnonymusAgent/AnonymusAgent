@@ -1,48 +1,44 @@
-<h2 align="left">Hi 👋! My name is Ali and I'm a A passionate frontend developer from Pakistan</h2>
-
-###
-
 <div align="center">
-  <img src="https://camo.githubusercontent.com/f7e5b4c86b4bdd13013661f5c583119240b93da0c3dfcca55dbef71a0b8b9114/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+
+<!-- HEADER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,24,30&height=220&section=header&text=Ali%20Mukhtar&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Building%20Modern%20Digital%20Experiences&descAlignY=58&descAlign=50" width="100%" alt="Ali Mukhtar Header" />
+
+<!-- TYPING SVG SUBTITLE -->
+<a href="https://github.com/AnonymusAgent">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=620&height=50&lines=%E2%9A%A1+Full-Stack+Web+Developer;%F0%9F%9A%80+Architecting+AR+Manager+%26+Webloom;%F0%9F%92%BB+TypeScript+%7C+JavaScript+%7C+Tailwind+CSS;%F0%9F%94%8E+Currently+Diving+Deep+into+Python;%F0%9F%8C%8D+Crafting+Responsive%2C+User-Centric+Web+Apps" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE BADGES & STATS COUNTER -->
+<p align="center">
+  <a href="https://github.com/AnonymusAgent">
+    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
+  </a>
+  <a href="https://webloom-nu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Webloom-6366F1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:webloomofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AnonymusAgent&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
 </div>
 
-###
+## 👨‍💻 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
+```yaml
+name: Ali Mukhtar
+handle: AnonymusAgent
+role: Full-Stack Developer
+working_mode: Remotely Working 🌐
+current_focus: Building High-Performance Web Applications & AR Manager Software
+core_strengths:
+  - Responsive & Scalable Web Architecture
+  - Clean, Maintainable TypeScript & JavaScript
+  - Modern UI/UX with Tailwind CSS & Component Systems
+learning_journey: Python 🐍 & Advanced Full-Stack Systems
+philosophy: "Building user-centric, elegant digital experiences that bridge innovation and utility."
