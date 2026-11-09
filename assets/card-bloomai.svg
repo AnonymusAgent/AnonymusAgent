@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 215" width="100%" role="img" aria-label="BloomAI Workspace 3D Project Card">
+  <defs>
+    <linearGradient id="bg_bloomai" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080e1e"/>
+      <stop offset="100%" stop-color="#0e172e"/>
+    </linearGradient>
+    <radialGradient id="glow_bloomai" cx="86%" cy="38%" r="48%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="20" y="22" width="534" height="191" rx="15" fill="#010308" opacity="0.82"/>
+  <polygon points="18,199 536,199 546,209 28,209"
+    fill="#581c87" opacity="0.9"/>
+  <polygon points="542,18 552,28 552,203 542,193"
+    fill="#9333ea" opacity="0.92"/>
+
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#bg_bloomai)"
+    stroke="#c084fc" stroke-width="1.3" stroke-opacity="0.72"/>
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#glow_bloomai)"/>
+
+  <rect x="32" y="9" width="110" height="3" rx="1.5" fill="#c084fc"/>
+
+  <rect x="34" y="28" width="176.2" height="21" rx="10.5"
+    fill="#c084fc" fill-opacity="0.14" stroke="#c084fc" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="122.1" y="42" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.6" font-weight="800"
+    letter-spacing="1.0" fill="#c084fc">IDEA &amp; BRIEF STUDIO</text>
+
+  <text x="34" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc">BloomAI Workspace</text>
+  <text x="34" y="102" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#cbd5e1">Collaborative workspace for drafting, attaching</text>
+  <text x="34" y="121" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#94a3b8">references &amp; exporting structured website briefs.</text>
+
+  <rect x="34.0" y="157" width="82.8" height="24" rx="6" fill="#0b1326" stroke="#c084fc" stroke-width="0.9" stroke-opacity="0.5"/><text x="75.4" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">React 18</text><rect x="124.8" y="157" width="62.0" height="24" rx="6" fill="#0b1326" stroke="#c084fc" stroke-width="0.9" stroke-opacity="0.5"/><text x="155.8" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Vite</text><rect x="194.8" y="157" width="82.8" height="24" rx="6" fill="#0b1326" stroke="#c084fc" stroke-width="0.9" stroke-opacity="0.5"/><text x="236.2" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Supabase</text><rect x="285.6" y="157" width="82.8" height="24" rx="6" fill="#0b1326" stroke="#c084fc" stroke-width="0.9" stroke-opacity="0.5"/><text x="327.0" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Tailwind</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -4; 0 0" begin="2.8s" dur="4s" repeatCount="indefinite"/>
+    <g>
+<polygon points="430.16,97.00 470.00,120.00 470.00,160.00 430.16,137.00" fill="rgba(126,34,206,0.6)" stroke="#e9d5ff" stroke-width="1.10" stroke-linejoin="round"/>
+<polygon points="509.84,97.00 470.00,120.00 470.00,160.00 509.84,137.00" fill="rgba(88,28,135,0.7)" stroke="#e9d5ff" stroke-width="1.10" stroke-linejoin="round"/>
+<polygon points="470.00,74.00 509.84,97.00 470.00,120.00 430.16,97.00" fill="rgba(168,85,247,0.38)" stroke="#e9d5ff" stroke-width="1.10" stroke-linejoin="round"/>
+</g>
+<g>
+<polygon points="452.68,109.00 470.00,119.00 470.00,135.00 452.68,125.00" fill="#0284c7" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="487.32,109.00 470.00,119.00 470.00,135.00 487.32,125.00" fill="#0369a1" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="470.00,99.00 487.32,109.00 470.00,119.00 452.68,109.00" fill="#38bdf8" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+</g>
+  </g>
+</svg>

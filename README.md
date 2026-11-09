@@ -1,261 +1,176 @@
 <div align="center">
 
-<br>
+<a href="https://webloom-nu.vercel.app">
+  <img src="./assets/hero-3d.svg" alt="Ali Mukhtar — AnonymusAgent 3D Spatial Profile" width="100%" />
+</a>
 
-# ALI MUKHTAR
-
-### `ANONYMUSAGENT`
-
-**FULL-STACK DEVELOPER · WEB LOOM**
-
-<br>
+<br /><br />
 
 <a href="https://webloom-nu.vercel.app">
-<img src="https://img.shields.io/badge/WEBLOOM-PORTFOLIO-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
+  <img src="https://img.shields.io/badge/WEBLOOM-LIVE_STUDIO-0b1326?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=050814&color=0284c7" alt="Webloom Studio" />
 </a>
 &nbsp;
-<a href="https://github.com/AnonymusAgent">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
+<a href="https://github.com/AnonymusAgent?tab=repositories">
+  <img src="https://img.shields.io/badge/GITHUB-24_REPOSITORIES-0b1326?style=for-the-badge&logo=github&logoColor=a78bfa&labelColor=050814&color=6d28d9" alt="GitHub Repositories" />
 </a>
 &nbsp;
 <a href="mailto:webloomofficial@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-ME-111111?style=for-the-badge&labelColor=111111&color=ffffff" />
+  <img src="https://img.shields.io/badge/CONTACT-WEBLOOMOFFICIAL%40GMAIL.COM-0b1326?style=for-the-badge&logo=gmail&logoColor=34d399&labelColor=050814&color=059669" alt="Contact Ali Mukhtar" />
 </a>
 
-<br><br>
+<br /><br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:111111,100:050505&height=2&section=header" width="85%">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+digital+experiences.;Designing+interfaces+that+feel+simple.;Engineering+modern+web+applications.;Always+learning.+Always+building." />
-
-<br><br>
+> **I'm Ali Mukhtar (`@AnonymusAgent`)**, founder & full-stack developer at **Web Loom**.
+> I architect and ship production web platforms, enterprise dashboards, media & OCR engines, and cross-platform mobile apps — taking products from **system design → PostgreSQL schema → TypeScript engineering → verified production launch**.
 
 </div>
 
 ---
 
-## / ABOUT
+## `01` · 3D Architecture & Codebase Telemetry
 
-I'm **Ali Mukhtar**, a Full-Stack Web Developer focused on building modern, responsive and user-centered web applications.
+<div align="center">
+  <img src="./assets/stack-3d.svg" alt="3D Full-Stack Architecture Layers and 24-Repo Language Telemetry" width="100%" />
+</div>
 
-I enjoy taking an idea from **interface → architecture → implementation → deployment**, with particular interest in the JavaScript ecosystem and modern web experiences.
+---
 
-```text
-REMOTE · FULL-STACK DEVELOPMENT · WEB EXPERIENCES
+## `02` · 3D Flagship Showcase
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/Webloom">
+        <img src="./assets/card-webloom.svg" alt="Webloom Studio 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/Webloom"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://webloom-nu.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/Bloom-AR">
+        <img src="./assets/card-bloomar.svg" alt="Bloom-AR Manager 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/Bloom-AR"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://ar-manager-ten.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/VELTRIO">
+        <img src="./assets/card-veltrio.svg" alt="VELTRIO Video Hub 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/VELTRIO"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://video-hub-hazel.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/pdfpro">
+        <img src="./assets/card-pdfpro.svg" alt="PDF Pro Suite 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/pdfpro"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://pdfpro-pearl.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/type-arena">
+        <img src="./assets/card-typearena.svg" alt="Type Arena 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/type-arena"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://type-arena-silk.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/bloomrcm">
+        <img src="./assets/card-bloomrcm.svg" alt="Bloom RCM 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/bloomrcm"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <a href="https://bloomrcm.vercel.app"><code>Live Demo ↗</code></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/Noor">
+        <img src="./assets/card-noor.svg" alt="Noor IslamicGuide 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/Noor"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <code>Expo · iOS · Android · Web</code>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/AnonymusAgent/BloomAI">
+        <img src="./assets/card-bloomai.svg" alt="BloomAI Workspace 3D Card" width="100%" />
+      </a>
+      <br />
+      <a href="https://github.com/AnonymusAgent/BloomAI"><code>Repository →</code></a>
+      &nbsp;·&nbsp;
+      <code>React 18 · Vite · Supabase</code>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>More Projects Across the 24-Repo Ecosystem</b> — Web Platforms, Mobile Apps & Dashboards</summary>
+<br />
+
+| Project | Domain & Focus | Core Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **ProFix** | Services booking, customer JWT portals & admin console | React 18 · Vite · Express · Neon | [`Repo`](https://github.com/AnonymusAgent/ProFix) |
+| **EduPortal Academy** | WCAG 2.2 AA academic portal & admin dashboard | Next.js · TypeScript · Drizzle · PG | [`Repo`](https://github.com/AnonymusAgent/eduportal) |
+| **La Maison (`Restaurant-Web`)** | Responsive dining experience & serverless admin analytics | HTML · CSS · JS · Neon Serverless | [`Repo`](https://github.com/AnonymusAgent/Restaurant-Web) · [`Live`](https://lamasion.vercel.app) |
+| **ChessMastersArena** | Cross-platform 3D chess mobile experience | Expo · React Native · Supabase | [`Repo`](https://github.com/AnonymusAgent/ChessMastersArena) |
+| **Medx** | Mobile health tracking & utility suite (⭐ Starred) | Expo · React Native · Supabase | [`Repo`](https://github.com/AnonymusAgent/Medx) |
+| **Device-Health-Suite** | Device battery, sensor & diagnostics utility | Expo · React Query · Drizzle | [`Repo`](https://github.com/AnonymusAgent/Device-Health-Suite) |
+| **Wifi-dashboard** | Real-time network telemetry & Wi-Fi dashboard | JavaScript · HTML · CSS | [`Repo`](https://github.com/AnonymusAgent/Wifi-dashboard) |
+
+</details>
+
+---
+
+## `03` · 3D Isometric Contribution Skyline
+
+<div align="center">
+  <img src="./assets/skyline-3d.svg" alt="3D Isometric GitHub Contribution Skyline for AnonymusAgent" width="100%" />
+</div>
+
+---
+
+## `04` · Spatial Engineering Pipeline
+
+<div align="center">
+  <img src="./assets/workflow-3d.svg" alt="3D Spatial Engineering Pipeline — Architect, Engineer, Verify, Ship" width="100%" />
+
+  <br /><br />
+
+  <a href="https://webloom-nu.vercel.app">
+    <img src="https://img.shields.io/badge/EXPLORE_WEBLOOM-0b1326?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=050814&color=0284c7" alt="Explore Webloom" />
+  </a>
+  &nbsp;
+  <a href="mailto:webloomofficial@gmail.com">
+    <img src="https://img.shields.io/badge/START_A_CONVERSATION-0b1326?style=for-the-badge&logo=minutemailer&logoColor=34d399&labelColor=050814&color=059669" alt="Start a Conversation" />
+  </a>
+</div>
+
+<details>
+<summary><sub><b>3D SVG Asset Generator</b> — Refresh all 12 spatial SVGs from live GitHub GraphQL telemetry</sub></summary>
+
+```bash
+# Regenerate all 3D SVGs from cached snapshot (data/github_stats.json)
+python3 scripts/generate_3d_assets.py
+
+# Refresh live repository languages & 53-week GraphQL contribution skyline via GitHub CLI
+python3 scripts/generate_3d_assets.py --refresh
 ```
 
----
-
-## / CURRENTLY
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### BUILDING
-
-**AR Manager Software**
-
-Working on a practical management application with an emphasis on clean interfaces, usability and reliable functionality.
-
-</td>
-
-<td width="50%" valign="top">
-
-### LEARNING
-
-**Python**
-
-Expanding my development toolkit beyond JavaScript and exploring Python for automation, backend development and future projects.
-
-</td>
-</tr>
-</table>
-
----
-
-## / SELECTED WORK
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 — MEDX
-
-**TypeScript**
-
-A web application project built around a modern development workflow and practical user experience.
-
-<br>
-
-<a href="https://github.com/AnonymusAgent/Medx">
-` VIEW REPOSITORY → `
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 — WIFI DASHBOARD
-
-**JavaScript**
-
-A dashboard-oriented project exploring network management interfaces and information-heavy UI.
-
-<br>
-
-<a href="https://github.com/AnonymusAgent/Wifi-dashboard">
-` VIEW REPOSITORY → `
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 — WEB APP
-
-**TypeScript**
-
-A modern web application focused on responsive interfaces and frontend development.
-
-<br>
-
-<a href="https://github.com/AnonymusAgent/Web-App">
-` VIEW REPOSITORY → `
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 — RESTAURANT WEB
-
-**HTML**
-
-A responsive restaurant website project focused on presenting information through a clean web experience.
-
-<br>
-
-<a href="https://github.com/AnonymusAgent/Restaurant-Web">
-` VIEW REPOSITORY → `
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## / TECHNOLOGY
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,java,tailwind,nodejs,python,git,github,vscode,vercel&perline=6" />
-
-<br><br>
-
-`HTML` · `CSS` · `JavaScript` · `TypeScript` · `Java`
-
-`Tailwind CSS` · `Node.js` · `Python` · `Git` · `VS Code`
-
-</div>
-
----
-
-## / GITHUB
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnonymusAgent&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=ffffff&include_all_commits=true" />
-
-  
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnonymusAgent&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&langs_count=6" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=AnonymusAgent&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=9ca3af&dates=6b7280&currStreakNum=ffffff&sideNums=ffffff" />
-
-</div>
-
----
-
-## / CONTRIBUTIONS
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnonymusAgent&bg_color=00000000&color=9ca3af&line=ffffff&point=ffffff&area=true&hide_border=true" width="95%" />
-
-</div>
-
----
-
-## / APPROACH
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 01
-
-**THINK**
-
-Understand the problem before writing the solution.
-
-</td>
-
-<td align="center" width="33%">
-
-### 02
-
-**BUILD**
-
-Turn ideas into clean, functional experiences.
-
-</td>
-
-<td align="center" width="33%">
-
-### 03
-
-**REFINE**
-
-Improve the details until the experience feels right.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<br>
-
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-<br>
-
-<a href="https://webloom-nu.vercel.app">
-<img src="https://img.shields.io/badge/EXPLORE_WEBLOOM-FFFFFF?style=for-the-badge&labelColor=111111&color=111111" />
-</a>
-
- 
-
-<a href="mailto:webloomofficial@gmail.com">
-<img src="https://img.shields.io/badge/START_A_CONVERSATION-FFFFFF?style=for-the-badge&labelColor=111111&color=111111" />
-</a>
-
-<br><br>
-
-<sub>Designed & built by Ali Mukhtar · AnonymusAgent</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:050505&height=100&section=footer" width="100%">
-
-</div>
+</details>

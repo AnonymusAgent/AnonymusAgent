@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 215" width="100%" role="img" aria-label="Bloom RCM 3D Project Card">
+  <defs>
+    <linearGradient id="bg_bloomrcm" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080e1e"/>
+      <stop offset="100%" stop-color="#0e172e"/>
+    </linearGradient>
+    <radialGradient id="glow_bloomrcm" cx="86%" cy="38%" r="48%">
+      <stop offset="0%" stop-color="#2dd4bf" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="20" y="22" width="534" height="191" rx="15" fill="#010308" opacity="0.82"/>
+  <polygon points="18,199 536,199 546,209 28,209"
+    fill="#115e59" opacity="0.9"/>
+  <polygon points="542,18 552,28 552,203 542,193"
+    fill="#0d9488" opacity="0.92"/>
+
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#bg_bloomrcm)"
+    stroke="#2dd4bf" stroke-width="1.3" stroke-opacity="0.72"/>
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#glow_bloomrcm)"/>
+
+  <rect x="32" y="9" width="110" height="3" rx="1.5" fill="#2dd4bf"/>
+
+  <rect x="34" y="28" width="191.8" height="21" rx="10.5"
+    fill="#2dd4bf" fill-opacity="0.14" stroke="#2dd4bf" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="129.9" y="42" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.6" font-weight="800"
+    letter-spacing="1.0" fill="#2dd4bf">REVENUE CYCLE CONSOLE</text>
+
+  <text x="34" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc">Bloom RCM</text>
+  <text x="34" y="102" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#cbd5e1">Healthcare medical billing portal &amp; admin console</text>
+  <text x="34" y="121" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#94a3b8">with lead pipeline, accessibility tools &amp; CMS.</text>
+
+  <rect x="34.0" y="157" width="98.0" height="24" rx="6" fill="#0b1326" stroke="#2dd4bf" stroke-width="0.9" stroke-opacity="0.5"/><text x="83.0" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Next.js 16</text><rect x="140.0" y="157" width="82.8" height="24" rx="6" fill="#0b1326" stroke="#2dd4bf" stroke-width="0.9" stroke-opacity="0.5"/><text x="181.4" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">React 19</text><rect x="230.8" y="157" width="75.2" height="24" rx="6" fill="#0b1326" stroke="#2dd4bf" stroke-width="0.9" stroke-opacity="0.5"/><text x="268.4" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Neon DB</text><rect x="314.0" y="157" width="62.0" height="24" rx="6" fill="#0b1326" stroke="#2dd4bf" stroke-width="0.9" stroke-opacity="0.5"/><text x="345.0" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Zod</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -4; 0 0" begin="2.0s" dur="4s" repeatCount="indefinite"/>
+    <g>
+<polygon points="430.16,103.00 470.00,126.00 470.00,160.00 430.16,137.00" fill="#0d9488" stroke="#bbf7d0" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="509.84,103.00 470.00,126.00 470.00,160.00 509.84,137.00" fill="#115e59" stroke="#bbf7d0" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="470.00,80.00 509.84,103.00 470.00,126.00 430.16,103.00" fill="#2dd4bf" stroke="#bbf7d0" stroke-width="0.90" stroke-linejoin="round"/>
+</g>
+<g>
+<polygon points="452.68,91.00 470.00,101.00 470.00,113.00 452.68,103.00" fill="#34d399" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="487.32,91.00 470.00,101.00 470.00,113.00 487.32,103.00" fill="#059669" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="470.00,81.00 487.32,91.00 470.00,101.00 452.68,91.00" fill="#f8fafc" stroke="#ffffff" stroke-width="0.90" stroke-linejoin="round"/>
+</g>
+  </g>
+</svg>
