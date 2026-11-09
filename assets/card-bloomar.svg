@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 215" width="100%" role="img" aria-label="Bloom-AR Manager 3D Project Card">
+  <defs>
+    <linearGradient id="bg_bloomar" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080e1e"/>
+      <stop offset="100%" stop-color="#0e172e"/>
+    </linearGradient>
+    <radialGradient id="glow_bloomar" cx="86%" cy="38%" r="48%">
+      <stop offset="0%" stop-color="#34d399" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="20" y="22" width="534" height="191" rx="15" fill="#010308" opacity="0.82"/>
+  <polygon points="18,199 536,199 546,209 28,209"
+    fill="#065f46" opacity="0.9"/>
+  <polygon points="542,18 552,28 552,203 542,193"
+    fill="#059669" opacity="0.92"/>
+
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#bg_bloomar)"
+    stroke="#34d399" stroke-width="1.3" stroke-opacity="0.72"/>
+  <rect x="8" y="8" width="534" height="191" rx="14" fill="url(#glow_bloomar)"/>
+
+  <rect x="32" y="9" width="110" height="3" rx="1.5" fill="#34d399"/>
+
+  <rect x="34" y="28" width="191.8" height="21" rx="10.5"
+    fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-width="0.8" stroke-opacity="0.6"/>
+  <text x="129.9" y="42" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.6" font-weight="800"
+    letter-spacing="1.0" fill="#34d399">ENTERPRISE HEALTHCARE</text>
+
+  <text x="34" y="76" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="800" fill="#f8fafc">Bloom-AR Manager</text>
+  <text x="34" y="102" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#cbd5e1">Medical billing AR system · 27 UI pages, 57 APIs,</text>
+  <text x="34" y="121" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="12.6" fill="#94a3b8">40 DB tables &amp; 272 CARC/RARC ICD-10 denial codes.</text>
+
+  <rect x="34.0" y="157" width="75.2" height="24" rx="6" fill="#0b1326" stroke="#34d399" stroke-width="0.9" stroke-opacity="0.5"/><text x="71.6" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Next.js</text><rect x="117.2" y="157" width="98.0" height="24" rx="6" fill="#0b1326" stroke="#34d399" stroke-width="0.9" stroke-opacity="0.5"/><text x="166.2" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">PostgreSQL</text><rect x="223.2" y="157" width="67.6" height="24" rx="6" fill="#0b1326" stroke="#34d399" stroke-width="0.9" stroke-opacity="0.5"/><text x="257.0" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">ICD-10</text><rect x="298.8" y="157" width="75.2" height="24" rx="6" fill="#0b1326" stroke="#34d399" stroke-width="0.9" stroke-opacity="0.5"/><text x="336.4" y="172.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="700" fill="#e2e8f0">Drizzle</text>
+
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="0 0; 0 -4; 0 0" begin="0.4s" dur="4s" repeatCount="indefinite"/>
+    <g>
+<polygon points="438.82,126.00 485.59,153.00 485.59,159.00 438.82,132.00" fill="#0f172a" stroke="#34d399" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="511.57,138.00 485.59,153.00 485.59,159.00 511.57,144.00" fill="#020617" stroke="#34d399" stroke-width="0.90" stroke-linejoin="round"/>
+<polygon points="464.80,111.00 511.57,138.00 485.59,153.00 438.82,126.00" fill="#1e293b" stroke="#34d399" stroke-width="0.90" stroke-linejoin="round"/>
+</g>
+<g>
+<polygon points="450.95,105.00 461.34,111.00 461.34,131.00 450.95,125.00" fill="#0284c7" stroke="#e0f2fe" stroke-width="0.70" stroke-linejoin="round"/>
+<polygon points="473.46,104.00 461.34,111.00 461.34,131.00 473.46,124.00" fill="#075985" stroke="#e0f2fe" stroke-width="0.70" stroke-linejoin="round"/>
+<polygon points="463.07,98.00 473.46,104.00 461.34,111.00 450.95,105.00" fill="#38bdf8" stroke="#e0f2fe" stroke-width="0.70" stroke-linejoin="round"/>
+</g>
+<g>
+<polygon points="464.80,98.00 475.20,104.00 475.20,139.00 464.80,133.00" fill="#059669" stroke="#d1fae5" stroke-width="0.70" stroke-linejoin="round"/>
+<polygon points="487.32,97.00 475.20,104.00 475.20,139.00 487.32,132.00" fill="#065f46" stroke="#d1fae5" stroke-width="0.70" stroke-linejoin="round"/>
+<polygon points="476.93,91.00 487.32,97.00 475.20,104.00 464.80,98.00" fill="#34d399" stroke="#d1fae5" stroke-width="0.70" stroke-linejoin="round"/>
+</g>
+<g>
+<polygon points="478.66,91.00 489.05,97.00 489.05,147.00 478.66,141.00" fill="#34d399" stroke="#ffffff" stroke-width="0.85" stroke-linejoin="round"/>
+<polygon points="501.18,90.00 489.05,97.00 489.05,147.00 501.18,140.00" fill="#059669" stroke="#ffffff" stroke-width="0.85" stroke-linejoin="round"/>
+<polygon points="490.78,84.00 501.18,90.00 489.05,97.00 478.66,91.00" fill="#f8fafc" stroke="#ffffff" stroke-width="0.85" stroke-linejoin="round"/>
+</g>
+  </g>
+</svg>

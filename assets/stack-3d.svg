@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="100%" role="img" aria-label="3D Isometric Architecture and Language Distribution">
+  <defs>
+    <linearGradient id="stackBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#060a16"/>
+      <stop offset="100%" stop-color="#0b1326"/>
+    </linearGradient>
+    <linearGradient id="stackBorder" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#34d399" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="8" y="8" width="1188" height="398" rx="18" fill="#02040a" opacity="0.8"/>
+  <rect x="4" y="4" width="1188" height="398" rx="18" fill="url(#stackBg)" stroke="url(#stackBorder)" stroke-width="1.4"/>
+
+  <text x="36" y="42" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="800" letter-spacing="2" fill="#38bdf8">
+    01 // 3D FULL-STACK ARCHITECTURE
+  </text>
+  <text x="726" y="42" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="800" letter-spacing="2" fill="#34d399">
+    02 // 24-REPO CODEBASE (10.43 MB)
+  </text>
+  <line x1="700" y1="28" x2="700" y2="382" stroke="#1e293b" stroke-width="1.2" stroke-dasharray="5 5"/>
+
+  <line x1="178.0" y1="311.0" x2="178.0" y2="118.0" stroke="#38bdf8" stroke-width="1.6" stroke-dasharray="4 4" opacity="0.5"/><g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0 0; 0 -3.5; 0 0" begin="0.0s" dur="4s" repeatCount="indefinite"/>
+  <g opacity="0.95">
+<polygon points="72.34,283.00 178.00,344.00 178.00,354.00 72.34,293.00" fill="#be185d" stroke="#f472b6" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="283.66,283.00 178.00,344.00 178.00,354.00 283.66,293.00" fill="#831843" stroke="#f472b6" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="178.00,222.00 283.66,283.00 178.00,344.00 72.34,283.00" fill="rgba(244,114,182,0.22)" stroke="#f472b6" stroke-width="1.30" stroke-linejoin="round"/>
+</g>
+  <polyline points="230.8,318.5 254.8,335.0 336.0,335.0"
+    fill="none" stroke="#f472b6" stroke-width="1.2" opacity="0.8"/>
+  <circle cx="230.8" cy="318.5" r="3.2" fill="#f472b6"/>
+  <rect x="344" y="312" width="334" height="46" rx="9" fill="#0d172c" fill-opacity="0.94"
+    stroke="#f472b6" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="358" y="331" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.8" font-weight="800" fill="#f472b6">01 // MEDIA, OCR &amp; CLOUD</text>
+  <text x="358" y="348" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="10.6" fill="#cbd5e1">Mux Video · PDF.js · Tesseract OCR · AWS S3 · Vercel</text>
+</g><g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0 0; 0 -3.5; 0 0" begin="0.6s" dur="4s" repeatCount="indefinite"/>
+  <g opacity="0.95">
+<polygon points="72.34,241.00 178.00,302.00 178.00,312.00 72.34,251.00" fill="#059669" stroke="#34d399" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="283.66,241.00 178.00,302.00 178.00,312.00 283.66,251.00" fill="#065f46" stroke="#34d399" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="178.00,180.00 283.66,241.00 178.00,302.00 72.34,241.00" fill="rgba(52,211,153,0.22)" stroke="#34d399" stroke-width="1.30" stroke-linejoin="round"/>
+</g>
+  <polyline points="230.8,276.5 254.8,263.0 336.0,263.0"
+    fill="none" stroke="#34d399" stroke-width="1.2" opacity="0.8"/>
+  <circle cx="230.8" cy="276.5" r="3.2" fill="#34d399"/>
+  <rect x="344" y="240" width="334" height="46" rx="9" fill="#0d172c" fill-opacity="0.94"
+    stroke="#34d399" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="358" y="259" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.8" font-weight="800" fill="#34d399">02 // DATA &amp; PERSISTENCE</text>
+  <text x="358" y="276" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="10.6" fill="#cbd5e1">PostgreSQL · Neon Serverless · Supabase · Drizzle ORM</text>
+</g><g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0 0; 0 -3.5; 0 0" begin="1.2s" dur="4s" repeatCount="indefinite"/>
+  <g opacity="0.95">
+<polygon points="72.34,199.00 178.00,260.00 178.00,270.00 72.34,209.00" fill="#4f46e5" stroke="#818cf8" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="283.66,199.00 178.00,260.00 178.00,270.00 283.66,209.00" fill="#312e81" stroke="#818cf8" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="178.00,138.00 283.66,199.00 178.00,260.00 72.34,199.00" fill="rgba(129,140,248,0.24)" stroke="#818cf8" stroke-width="1.30" stroke-linejoin="round"/>
+</g>
+  <polyline points="230.8,234.5 254.8,191.0 336.0,191.0"
+    fill="none" stroke="#818cf8" stroke-width="1.2" opacity="0.8"/>
+  <circle cx="230.8" cy="234.5" r="3.2" fill="#818cf8"/>
+  <rect x="344" y="168" width="334" height="46" rx="9" fill="#0d172c" fill-opacity="0.94"
+    stroke="#818cf8" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="358" y="187" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.8" font-weight="800" fill="#818cf8">03 // APPLICATION &amp; AUTH</text>
+  <text x="358" y="204" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="10.6" fill="#cbd5e1">TypeScript · App Router · Node.js · Express · Better Auth</text>
+</g><g>
+  <animateTransform attributeName="transform" type="translate"
+    values="0 0; 0 -3.5; 0 0" begin="1.8s" dur="4s" repeatCount="indefinite"/>
+  <g opacity="0.95">
+<polygon points="72.34,157.00 178.00,218.00 178.00,228.00 72.34,167.00" fill="#0284c7" stroke="#38bdf8" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="283.66,157.00 178.00,218.00 178.00,228.00 283.66,167.00" fill="#075985" stroke="#38bdf8" stroke-width="1.30" stroke-linejoin="round"/>
+<polygon points="178.00,96.00 283.66,157.00 178.00,218.00 72.34,157.00" fill="rgba(56,189,248,0.28)" stroke="#38bdf8" stroke-width="1.30" stroke-linejoin="round"/>
+</g>
+  <polyline points="230.8,192.5 254.8,119.0 336.0,119.0"
+    fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.8"/>
+  <circle cx="230.8" cy="192.5" r="3.2" fill="#38bdf8"/>
+  <rect x="344" y="96" width="334" height="46" rx="9" fill="#0d172c" fill-opacity="0.94"
+    stroke="#38bdf8" stroke-width="1" stroke-opacity="0.6"/>
+  <text x="358" y="115" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.8" font-weight="800" fill="#38bdf8">04 // EXPERIENCE LAYER</text>
+  <text x="358" y="132" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', 'Helvetica Neue', Arial, sans-serif" font-size="10.6" fill="#cbd5e1">Next.js 16 · React 19 · React Native / Expo · Tailwind 4</text>
+</g>
+  <g opacity="0.95">
+<polygon points="881.36,210.00 1059.76,313.00 1059.76,322.00 881.36,219.00" fill="#0a1328" stroke="#38bdf8" stroke-width="1.00" stroke-linejoin="round"/>
+<polygon points="1090.94,295.00 1059.76,313.00 1059.76,322.00 1090.94,304.00" fill="#070e1d" stroke="#38bdf8" stroke-width="1.00" stroke-linejoin="round"/>
+<polygon points="912.54,192.00 1090.94,295.00 1059.76,313.00 881.36,210.00" fill="#0f1c38" stroke="#38bdf8" stroke-width="1.00" stroke-linejoin="round"/>
+</g><g opacity="0.96">
+<polygon points="900.41,97.00 919.46,108.00 919.46,224.00 900.41,213.00" fill="#0284c7" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="936.78,98.00 919.46,108.00 919.46,224.00 936.78,214.00" fill="#075985" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="917.73,87.00 936.78,98.00 919.46,108.00 900.41,97.00" fill="#38bdf8" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+</g><text x="918.6" y="83.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="800" fill="#38bdf8">88.8%</text><g opacity="0.96">
+<polygon points="933.32,184.19 952.37,195.19 952.37,243.00 933.32,232.00" fill="#d97706" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="969.69,185.19 952.37,195.19 952.37,243.00 969.69,233.00" fill="#92400e" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="950.64,174.19 969.69,185.19 952.37,195.19 933.32,184.19" fill="#fbbf24" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+</g><text x="951.5" y="170.7" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="800" fill="#fbbf24">4.1%</text><g opacity="0.96">
+<polygon points="966.23,205.90 985.28,216.90 985.28,262.00 966.23,251.00" fill="#e11d48" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="1002.60,206.90 985.28,216.90 985.28,262.00 1002.60,252.00" fill="#9f1239" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="983.55,195.90 1002.60,206.90 985.28,216.90 966.23,205.90" fill="#fb7185" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+</g><text x="984.4" y="192.4" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="800" fill="#fb7185">3.3%</text><g opacity="0.96">
+<polygon points="999.14,226.24 1018.19,237.24 1018.19,281.00 999.14,270.00" fill="#7c3aed" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="1035.51,227.24 1018.19,237.24 1018.19,281.00 1035.51,271.00" fill="#5b21b6" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="1016.46,216.24 1035.51,227.24 1018.19,237.24 999.14,226.24" fill="#a78bfa" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+</g><text x="1017.3" y="212.7" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="800" fill="#a78bfa">2.9%</text><g opacity="0.96">
+<polygon points="1032.05,255.99 1051.10,266.99 1051.10,300.00 1032.05,289.00" fill="#059669" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="1068.42,256.99 1051.10,266.99 1051.10,300.00 1068.42,290.00" fill="#065f46" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+<polygon points="1049.37,245.99 1068.42,256.99 1051.10,266.99 1032.05,255.99" fill="#34d399" stroke="#e2e8f0" stroke-width="0.65" stroke-linejoin="round"/>
+</g><text x="1050.2" y="242.5" text-anchor="middle" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.2" font-weight="800" fill="#34d399">0.8%</text>
+  <rect x="726" y="328" width="438" height="66" rx="10" fill="#091122" fill-opacity="0.98" stroke="#1e293b" stroke-width="1"/><circle cx="744" cy="344.0" r="4.2" fill="#38bdf8"/><text x="755" y="348.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#e2e8f0">TypeScript <tspan fill="#94a3b8">(88.8% · 9.27 MB)</tspan></text><circle cx="962" cy="344.0" r="4.2" fill="#fbbf24"/><text x="973" y="348.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#e2e8f0">JavaScript <tspan fill="#94a3b8">(4.1% · 431 KB)</tspan></text><circle cx="744" cy="362.5" r="4.2" fill="#fb7185"/><text x="755" y="366.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#e2e8f0">HTML <tspan fill="#94a3b8">(3.3% · 342 KB)</tspan></text><circle cx="962" cy="362.5" r="4.2" fill="#a78bfa"/><text x="973" y="366.5" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#e2e8f0">CSS <tspan fill="#94a3b8">(2.9% · 303 KB)</tspan></text><circle cx="744" cy="381.0" r="4.2" fill="#34d399"/><text x="755" y="385.0" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="10.5" fill="#e2e8f0">PLpgSQL <tspan fill="#94a3b8">(0.8% · 87 KB)</tspan></text>
+</svg>
