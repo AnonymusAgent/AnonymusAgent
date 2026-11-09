@@ -1,12 +1,12 @@
 <div align="center">
 
-<a href="https://webloom-nu.vercel.app">
+<a href="https://web-loom.vercel.app">
   <img src="./assets/hero-3d.svg" alt="Ali Mukhtar — AnonymusAgent 3D Spatial Profile" width="100%" />
 </a>
 
 <br /><br />
 
-<a href="https://webloom-nu.vercel.app">
+<a href="https://web-loom.vercel.app">
   <img src="https://img.shields.io/badge/WEBLOOM-LIVE_STUDIO-0b1326?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=050814&color=0284c7" alt="Webloom Studio" />
 </a>
 &nbsp;
@@ -46,7 +46,7 @@
       <br />
       <a href="https://github.com/AnonymusAgent/Webloom"><code>Repository →</code></a>
       &nbsp;·&nbsp;
-      <a href="https://webloom-nu.vercel.app"><code>Live Demo ↗</code></a>
+      <a href="https://web-loom.vercel.app"><code>Live Demo ↗</code></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AnonymusAgent/Bloom-AR">
@@ -55,7 +55,7 @@
       <br />
       <a href="https://github.com/AnonymusAgent/Bloom-AR"><code>Repository →</code></a>
       &nbsp;·&nbsp;
-      <a href="https://ar-manager-ten.vercel.app"><code>Live Demo ↗</code></a>
+      <a href="https://bloomar.vercel.app"><code>Live Demo ↗</code></a>
     </td>
   </tr>
   <tr>
@@ -66,16 +66,16 @@
       <br />
       <a href="https://github.com/AnonymusAgent/VELTRIO"><code>Repository →</code></a>
       &nbsp;·&nbsp;
-      <a href="https://video-hub-hazel.vercel.app"><code>Live Demo ↗</code></a>
+      <a href="https://https://veltrio-new.vercel.app/"><code>Live Demo ↗</code></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AnonymusAgent/pdfpro">
         <img src="./assets/card-pdfpro.svg" alt="PDF Pro Suite 3D Card" width="100%" />
       </a>
       <br />
-      <a href="https://github.com/AnonymusAgent/pdfpro"><code>Repository →</code></a>
+      <a href="https://https://github.com/AnonymusAgent/ProFix"><code>Repository →</code></a>
       &nbsp;·&nbsp;
-      <a href="https://pdfpro-pearl.vercel.app"><code>Live Demo ↗</code></a>
+      <a href="https://https://pro-fix-web.vercel.app/"><code>Live Demo ↗</code></a>
     </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@
       <br />
       <a href="https://github.com/AnonymusAgent/type-arena"><code>Repository →</code></a>
       &nbsp;·&nbsp;
-      <a href="https://type-arena-silk.vercel.app"><code>Live Demo ↗</code></a>
+      <a href="https://arena-skill.vercel.app"><code>Live Demo ↗</code></a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/AnonymusAgent/bloomrcm">
@@ -153,7 +153,7 @@
 
   <br /><br />
 
-  <a href="https://webloom-nu.vercel.app">
+  <a href="https://web-loom.vercel.app">
     <img src="https://img.shields.io/badge/EXPLORE_WEBLOOM-0b1326?style=for-the-badge&logo=vercel&logoColor=38bdf8&labelColor=050814&color=0284c7" alt="Explore Webloom" />
   </a>
   &nbsp;
